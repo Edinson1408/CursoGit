@@ -1,4 +1,6 @@
 #curso git desde cero
+sistema de comtrtol de versiones para el manteniento eficiente y confiable de archivos
+
 #no se que hago aqui XD
 este es mi comentenid perro del mal
 adasda
